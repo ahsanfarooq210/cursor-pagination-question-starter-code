@@ -1,0 +1,16 @@
+{
+  "name": "transactions-pagination-starter",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "check": "node check.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
